@@ -1,0 +1,18 @@
+{
+  "name": "node_girls_cms_workshop_aj",
+  "version": "1.0.0",
+  "description": "Blog with Node Workshop. Wottttt!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "best",
+    "blog"
+  ],
+  "author": "Jessica, Alexis",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
